@@ -1,0 +1,3 @@
+rep "Diner Dash@UnrSchoolProjects@cloud"
+  path "/"
+    smartbranch "/main"
